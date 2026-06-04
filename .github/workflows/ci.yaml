@@ -1,4 +1,4 @@
-name: "Continuous Integration" matrix
+name: "Continuous Integration matrix"
 
 on:
   - pull_request
